@@ -23,8 +23,8 @@ apkファイルをandroid端末にダウンロードし、インストールし�
 
 ## 使用画面のイメージ
 「ホーム」 <br>
-<img src="https://user-images.githubusercontent.com/64642177/116497574-af2d7800-a8e2-11eb-8227-4a12565d4cbd.png" width="300"><br>
+<img src="https://user-images.githubusercontent.com/64642177/116497565-a9d02d80-a8e2-11eb-9e09-718146a63b20.png" width="300"><br>
 「タスク」 <br>
 <img src="https://user-images.githubusercontent.com/64642177/116497571-ad63b480-a8e2-11eb-8d29-0e409e4af53d.png" width="300"><br>
 「スケジュール」 <br>
-<img src="https://user-images.githubusercontent.com/64642177/116497565-a9d02d80-a8e2-11eb-9e09-718146a63b20.png" width="300">
+<img src="https://user-images.githubusercontent.com/64642177/116497574-af2d7800-a8e2-11eb-8227-4a12565d4cbd.png" width="300"><br>
