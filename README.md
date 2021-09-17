@@ -1,12 +1,11 @@
-# タスクスケジュール管理アプリ
+# Task Scheduling App Sample
 
-## アプリ概要
+## Overview
 
-よくあるタスク、スケジュール管理アプリです。<br>
-タスクは「なるはや」と「ふつう」で区別することができ、ホーム画面には「なるはや」タスクが表示されます。<br>
-スケジュールはカレンダー表示から入力が可能です。
+This is a common task, schedule management application.<br>
+I created this App as sample due to study ReactNative.
 
-## 使用技術
+## Techniques
 
 * __expo 41.0.0__
 * __react-native-gesture-handler 1.10.2__
@@ -16,15 +15,15 @@
 * __expo-sqlite 9.1.0__
 
 
-### 動作確認
+### Deploy
 
 apkファイルをandroid端末にダウンロードし、インストールしてください。<br>
 ※不明なアプリのインストールを許可する必要があります。<br>
 
-## 使用画面のイメージ
-「ホーム」 <br>
+## Image
+Home <br>
 <img src="https://user-images.githubusercontent.com/64642177/116497565-a9d02d80-a8e2-11eb-9e09-718146a63b20.png" width="300"><br>
-「タスク」 <br>
+Task <br>
 <img src="https://user-images.githubusercontent.com/64642177/116497571-ad63b480-a8e2-11eb-8d29-0e409e4af53d.png" width="300"><br>
-「スケジュール」 <br>
+Schedule <br>
 <img src="https://user-images.githubusercontent.com/64642177/116497574-af2d7800-a8e2-11eb-8227-4a12565d4cbd.png" width="300"><br>
