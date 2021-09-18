@@ -15,10 +15,10 @@ I created this App as sample due to study ReactNative.
 * __expo-sqlite 9.1.0__
 
 
-### Deploy
+### How to use
 
-apkファイルをandroid端末にダウンロードし、インストールしてください。<br>
-※不明なアプリのインストールを許可する必要があります。<br>
+Please download the apk file to your android device and install it. <br>
+* It is necessary to allow the installation of unknown apps.<br>
 
 ## Image
 Home <br>
